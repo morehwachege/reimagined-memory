@@ -11,7 +11,7 @@ Both frontends are built with ReactJs.
 
 Click on the video below to play the demo
 
-[![Watch Demo](./repo-assets/projector.jpg)](./demo.mp4 "Enjoy")
+[![Watch Demo](./repo-assets/projector.jpg)](./repo-assets/demo.mp4 "Enjoy")
 
 
 
