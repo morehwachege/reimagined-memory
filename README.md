@@ -11,7 +11,7 @@ Both frontends are built with ReactJs.
 
 Click on the video below to play the demo
 
-[![Watch Demo](./repo-assets/projector.jpg)](./repo-assets/demo.mp4 "Enjoy")
+[![Watch Demo](https://raw.githubusercontent.com/tldraw/tldraw/main/assets/github-hero-dark-draw.png)](https://www.youtube.com/watch?v=V0w6Zd5eaWU)
 
 
 
