@@ -44,7 +44,9 @@ nf start
 
 The Hordes and Nightowl projects should both be running  at port 5000 and 5001 consecutively while the API should be running at port 3000
 
-Though should not be done in production, I've left the ``.env`` inside the projects that have the links with the ports for running convenience.
+Though should not be done in production, I've left the ``.env`` inside the api dir that have the links with the db sting example for running convenience.
+
+Running each of the projects individually will cause a crash since the ports used at this dev instance are from foreman.
 
 ## License
 
