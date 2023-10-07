@@ -11,7 +11,7 @@ Both frontends are built with ReactJs.
 
 Click on the video below to play the demo
 
-[![Watch Demo](./projector.jpg)](./React%20App.mp4 "Now in Android: 55")
+[![Watch Demo](./repo-assets/projector.jpg)](./demo.mp4 "Enjoy")
 
 
 
