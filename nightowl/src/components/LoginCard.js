@@ -3,10 +3,9 @@ import camping from '../assets/images/night.svg';
 import axios from "axios";
 
 function LoginCard({setLoggedIn}) {
-
+  
   const [username, setUsername] = useState("")
   const [password, setPassword] = useState("")
-  const [token, setToken] = useState(null)
 
   function loginRequest(e){
     const payload = {username, password}
@@ -14,7 +13,7 @@ function LoginCard({setLoggedIn}) {
     e.preventDefault()
  
   const options = {
-    url: 'http://localhost:3000/api/v1/auth/login',
+    url: `http://localhost:3000/api/v1/auth/login`,
     method: 'POST',
     headers: {
       'Accept': 'application/json',

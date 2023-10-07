@@ -24,7 +24,7 @@ function Dashboard({loggedIn, setLoggedIn}) {
           Welcome to your dashboard,{" "}
           <span className="dashboard-span">Antony</span>
         </h4>
-        <Link to="http://localhost:3001" className="fs-5 text-decoration-none" >HordesIO</Link>
+        <Link to="http://localhost:5000" className="fs-5 text-decoration-none" >HordesIO</Link>
       </div>
     </div>
   );
