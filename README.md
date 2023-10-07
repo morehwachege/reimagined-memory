@@ -9,9 +9,10 @@ Both frontends are built with ReactJs.
 
 ## Demo
 
-Click on this guy's professional profile picture below to play the demo video
+Click on the video below to play the demo
 
-[![Watch the video](https://media.licdn.com/dms/image/D4D03AQGLkgevEUk8Bw/profile-displayphoto-shrink_400_400/0/1693047131287?e=1701907200&v=beta&t=P6_XGC2afxauLvsgBHRTAw9i0wW1kcztXYd7MCq-TsU)](./repo-assets/React%20App.mp4)
+[![Watch Demo](./projector.jpg)](./React%20App.mp4 "Now in Android: 55")
+
 
 
 ## Requirements
